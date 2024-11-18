@@ -1,0 +1,14 @@
+D:\VB\UPDBackoff\UPDBackoff\bin\Debug\REGUPD.exe
+D:\VB\UPDBackoff\UPDBackoff\bin\Debug\REGUPD.pdb
+D:\VB\UPDBackoff\UPDBackoff\bin\Debug\REGUPD.xml
+D:\VB\UPDBackoff\UPDBackoff\bin\Debug\Ionic.Zip.dll
+D:\VB\UPDBackoff\UPDBackoff\bin\Debug\MySql.Data.dll
+D:\VB\UPDBackoff\UPDBackoff\bin\Debug\ZipForge.dll
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\REGUPD.Form1.resources
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\REGUPD.Resources.resources
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\UPDBackoff.vbproj.GenerateResource.cache
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\UPDBackoff.vbproj.CoreCompileInputs.cache
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\UPDBackoff.vbproj.CopyComplete
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\REGUPD.exe
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\REGUPD.xml
+D:\VB\UPDBackoff\UPDBackoff\obj\Debug\REGUPD.pdb
